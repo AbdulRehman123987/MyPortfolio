@@ -7,7 +7,7 @@ export const personalData = {
   email: "rehmanmirza458@gmail.com",
   phone: "+923349503347",
   address: "Jhelum,Punjab,Pakistan ",
-  github: "https://github.com",
+  github: "https://github.com/AbdulRehman123987",
   facebook: "https://www.facebook.com/share/1GAQLzfySm/",
   linkedIn: "www.linkedin.com/in/abdul-rehman-693b2b280",
   twitter: "https://twitter.com/",
