@@ -10,16 +10,16 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Saqib Ur Rehman - Full Stack Developer",
+  title: "Portfolio of Abdul Rehman - Software Developer",
   description:
-    "This is the portfolio of Saqib Ur Rehman. I am a passionate full-stack developer with a love for JavaScript and modern web technologies. I'm self-taught, always eager to learn new things, and enjoy solving complex problems. I believe in continuous growth and learning, and I’m always open to collaborating on exciting projects. Whether it's creating intuitive frontend interfaces with React or building robust backend systems with Node.js, I thrive in both areas and enjoy every challenge along the way",
+    "Hi, I'm Abdul Rehman, a passionate Software Developer who loves building modern web and mobile applications.\n\nI'm skilled in technologies like React.js, Node.js, Express.js, MongoDB, React Native, and Laravel. With a strong commitment to clean code and problem-solving, I enjoy turning ideas into real-world applications.\n\nI consider myself a hard worker, a quick learner, and a natural problem solver. Whether it's building responsive UIs or creating full-stack solutions, I focus on writing efficient and maintainable code.\n\nIf you're looking for someone who's eager to learn, takes initiative, and can work across the full stack — I'm definitely hireable.",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/profile.JPG" sizes="any" />
+        <link rel="icon" href="/profile.png" sizes="any" />
       </head>
       <body className={inter.className}>
         <ToastContainer />

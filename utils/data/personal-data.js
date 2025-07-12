@@ -1,17 +1,20 @@
 export const personalData = {
-  name: "SAQIB UR REHMAN",
-  profile: '/profile.JPG',
+  name: "Abdul Rehman",
+  profile: "/profile.png",
   designation: "Software Developer",
-  description: "Hi, I'm Saqib — a passionate and professional full-stack developer with a deep love for JavaScript. I'm always curious, always learning, and always building. From sleek frontend interfaces in React to powerful backend systems in Node.js, I enjoy working across the full web stack to bring ideas to life. I’m a fast learner with a self-driven attitude, always eager to explore new tools, frameworks, and best practices. Problem-solving is where I thrive — turning challenges into clean, scalable solutions. I believe in writing code that not only works but speaks quality. Open to opportunities that align with my skills and passion for modern web development.",
-  email: 'saqiburrehman75@gmail.com',
-  phone: '03019803360',
-  address: 'Barakahu Islamabad ',
-  github: 'https://github.com/SAQIB2497',
-  facebook: 'https://www.facebook.com/SAQI2497',
-  linkedIn: 'https://www.linkedin.com/in/saqib-ur-rehman-1827522ba/',
-  twitter: 'https://twitter.com',
-  stackOverflow: 'https://stackoverflow.co',
-  instagram: "https://www.instagram.com/saqib_rehman_warsi_/",
-  devUsername: "Saqib Ur Rehman",
-  resume: "https://drive.google.com/file/d/1dlLicZyEWtHE3pNALSrK3FI12FKQaCTT/view"
-}
+  description:
+    "Hi, I'm Abdul Rehman, a passionate Software Developer who loves building modern web and mobile applications.\n\nI'm skilled in technologies like React.js, Node.js, Express.js, MongoDB, React Native, and Laravel. With a strong commitment to clean code and problem-solving, I enjoy turning ideas into real-world applications.\n\nI consider myself a hard worker, a quick learner, and a natural problem solver. Whether it's building responsive UIs or creating full-stack solutions, I focus on writing efficient and maintainable code.\n\nIf you're looking for someone who's eager to learn, takes initiative, and can work across the full stack — I'm definitely hireable.",
+  email: "rehmanmirza458@gmail.com",
+  phone: "+923349503347",
+  address: "Jhelum,Punjab,Pakistan ",
+  github: "https://github.com",
+  facebook: "https://www.facebook.com/share/1GAQLzfySm/",
+  linkedIn: "www.linkedin.com/in/abdul-rehman-693b2b280",
+  twitter: "https://twitter.com/",
+  stackOverflow: "https://stackoverflow.com",
+  instagram:
+    "https://www.instagram.com/abdul_rehman_mirza_?igsh=MWF5YXhzazR6MDEzYw==",
+  devUsername: "Abdul Rehman",
+  resume:
+    "https://drive.google.com/file/d/1-QDKu8ZBBAvZSS3hekOS1tSaLnzs85GI/view?usp=drive_link",
+};

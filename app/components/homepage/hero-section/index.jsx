@@ -9,7 +9,6 @@ import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 import { SiInstagram } from "react-icons/si";
 
-
 function HeroSection() {
   return (
     <section className="relative flex flex-col items-center justify-between py-4 lg:py-12">
@@ -26,9 +25,9 @@ function HeroSection() {
           <h1 className="text-3xl font-bold leading-10 text-[#e5e7eb] md:font-extrabold lg:text-[2.2rem] lg:leading-[3.5rem]">
             Hi, I’m <span className="text-pink-500">{personalData.name}</span>,
             <br />a passionate{" "}
-            <span className="text-[#16f2b3]">MERN Stack Developer </span>
+            <span className="text-[#16f2b3]">Software Developer </span>
             {/* <br /> */}
-            who loves building modern web apps.
+            who loves building modern web and mobile applications.
           </h1>
 
           <div className="my-12 flex items-center gap-5">
@@ -115,19 +114,24 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-[#e5e7eb]">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Saqib Ur Rehman</span>
+                <span className="text-amber-300">Abdul Rehman</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-[#e5e7eb]">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">React</span>
+                <span className="text-amber-300">React js</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Node.js</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">Express js</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">React Native</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Laravel</span>
+                <span className="text-gray-400">{`']`}</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-[#e5e7eb]">

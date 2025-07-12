@@ -7,14 +7,16 @@ import dynamic from "next/dynamic";
 import GlowCard from "../../helper/glow-card";
 import experience from "/public/lottie/code.json";
 
-const AnimationLottie = dynamic(
-  () => import("../../helper/animation-lottie"),
-  { ssr: false }
-);
+const AnimationLottie = dynamic(() => import("../../helper/animation-lottie"), {
+  ssr: false,
+});
 
 function Experience() {
   return (
-    <div id="experience" className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]">
+    <div
+      id="experience"
+      className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]"
+    >
       <Image
         src="/section.svg"
         alt="Hero"
@@ -44,7 +46,10 @@ function Experience() {
           <div>
             <div className="flex flex-col gap-6">
               {experiences.map((experience) => (
-                <GlowCard key={experience.id} identifier={`experience-${experience.id}`}>
+                <GlowCard
+                  key={experience.id}
+                  identifier={`experience-${experience.id}`}
+                >
                   <div className="p-3 relative">
                     <Image
                       src="/blur-23.svg"

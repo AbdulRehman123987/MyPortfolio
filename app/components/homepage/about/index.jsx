@@ -34,7 +34,7 @@ function AboutSection() {
               src={personalData.profile}
               width={400}
               height={400}
-              alt="Saqib Ur Rehman"
+              alt="Abdul Rehman"
               className="w-full h-full object-cover transition-all duration-500"
               style={{
                 filter: isHovered ? "grayscale(0%)" : "grayscale(50%)",
