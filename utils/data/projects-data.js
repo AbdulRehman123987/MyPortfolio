@@ -9,7 +9,7 @@ export const projectsData = [
     description:
       "A fully responsive frontend e-commerce platform for hardware products, developed for both web and mobile views. Users can browse categorized products, add items to the cart, and view product details. State is managed using Redux Toolkit, while authentication and product storage are handled via Firebase. Styled with Tailwind CSS and DaisyUI, the design ensures a seamless shopping experience across devices.",
     tools: ["React.js", "Tailwind CSS", "DaisyUI", "Redux Toolkit", "Firebase"],
-    role: "Frontend Developer",
+    role: "Full Stack Developer",
     code: "https://github.com/AbdulRehman123987",
     demo: "https://e-store.netlify.app/",
     // image: crefin,
