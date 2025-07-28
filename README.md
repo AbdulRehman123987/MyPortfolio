@@ -1,25 +1,22 @@
-🧑‍💻 Portfolio Website
-This is my personal developer portfolio built using modern web technologies. It showcases my skills, projects, and experiences as a MERN Stack and Frontend Developer.
+# 🧑‍💻 Developer Portfolio
 
-🔧 Tech Stack
-Frontend: HTML, CSS, JavaScript, React.js
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experience as a MERN Stack and Frontend Developer.
 
-Styling: Tailwind CSS / Bootstrap (based on what you used)
+## 🚀 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Styling:** Tailwind CSS / Bootstrap
+- **Backend:** Node.js, Express.js *(if used)*
+- **Deployment:** Vercel / Netlify / GitHub Pages
 
-Backend (if applicable): Node.js, Express.js
 
-Deployment: GitHub Pages / Vercel / Netlify
+## 🔗 Live Demo
 
-🚀 Features
-Responsive and mobile-friendly layout
+[Click here to view the website](abdulrehmandev.vercel.app)
 
-Animated project showcase
+## 📫 Contact
 
-Contact form with email integration
+Feel free to reach out via [Email](mailto:rehmanmirza458@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/abdul-rehman-693b2b280).
 
-GitHub and LinkedIn profile links
+---
 
-Smooth scroll and interactive UI
-
-🌐 Live Preview
-🔗 abdulrehmandev.vercel.app
+Made by **Abdul Rehman**
